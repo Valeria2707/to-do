@@ -19,22 +19,34 @@ Ensure you have the following installed:
    ```
 
 2. Install dependencies:
+
+   ```bash
    npm install
 
-   # or
+
+   //or
 
    yarn install
 
+   ```
+
 3. To start the development server:
+
+   ```bash
    npm run dev
 
-   # or
+   //or
 
    yarn dev
 
+   ```
+
 4. To create a build:
+
+   ```bash
    npm run build
 
-   # or
+    //or
 
    yarn build
+   ```
